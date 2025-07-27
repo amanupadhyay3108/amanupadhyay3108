@@ -1,4 +1,4 @@
-![logo](https://github.com/amanupadhyay3108/amanupadhyay3108/blob/main/Banner2.png)
+![logo](https://github.com/amanupadhyay3108/amanupadhyay3108/blob/main/Banner_.png)
 
 <h1 align="center">Hi 👋, I'm Aman Upadhyay</h1>
 <h3 align="center">A passionate Software developer from India</h3>
