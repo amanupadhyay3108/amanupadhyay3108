@@ -11,7 +11,7 @@
 🎓 I'm a final-year Computer Science student on a relentless journey through the ever-evolving world of technology.
 
 💻 I specialize in Data Structures & Algorithms using Java and have built several full-stack applications using the MERN stack (MongoDB, Express.js, React.js, Node.js).
-- 🌱 I’m currently exploring **Artificial Intelligence, Machine Learning, and Deep Learning**
+- 🌱 I’m currently exploring **System Design**
 
 - 👨‍💻 My Portfolio [https://portfolio-aman-five.vercel.app/](https://portfolio-aman-five.vercel.app/)
 
